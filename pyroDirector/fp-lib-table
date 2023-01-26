@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "Arduino Shields")(type "KiCad")(uri "${KIPRJMOD}/components/arduinos/Arduino.pretty")(options "")(descr ""))
+  (lib (name "Songle Relays")(type "KiCad")(uri "${KIPRJMOD}/components/songle-relays")(options "")(descr ""))
+  (lib (name "CUI Relays")(type "KiCad")(uri "${KIPRJMOD}/components/cui_relays")(options "")(descr ""))
+  (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/components/TS-1187A-B-A-B")(options "")(descr ""))
+  (lib (name "MEGA_PRO_EMBED_CH340G___ATMEGA2560")(type "KiCad")(uri "${KIPRJMOD}/components/MEGA_PRO_EMBED_CH340G___ATMEGA2560")(options "")(descr ""))
+)

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "Arduino Shields")(type "KiCad")(uri "${KIPRJMOD}/components/arduinos/arduino.kicad_sym")(options "")(descr ""))
+  (lib (name "Songle Relays")(type "Legacy")(uri "${KIPRJMOD}/components/songle-relays/SRD-05VDC-SL-C.lib")(options "")(descr ""))
+  (lib (name "CUI Relays")(type "KiCad")(uri "${KIPRJMOD}/components/cui_relays/cui_relays.kicad_sym")(options "")(descr ""))
+  (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/components/TS-1187A-B-A-B/TS-1187A-B-A-B.kicad_sym")(options "")(descr ""))
+  (lib (name "MEGA_PRO_EMBED_CH340G___ATMEGA2560")(type "KiCad")(uri "${KIPRJMOD}/components/MEGA_PRO_EMBED_CH340G___ATMEGA2560/MEGA_PRO_EMBED_CH340G___ATMEGA2560.kicad_sym")(options "")(descr ""))
+)

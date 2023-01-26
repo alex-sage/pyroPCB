@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PR9-5V-200-1A
+D General Purpose Relays 18.2 x 10.2 x 15.5 mm, 5 V, 16 A, SPST (1 Form A), Power Relay
+K
+F https://www.cuidevices.com/product/resource/pr9.pdf
+$ENDCMP
+#
+#End Doc Library
