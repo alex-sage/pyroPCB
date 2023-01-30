@@ -4,4 +4,5 @@
   (lib (name "CUI Relays")(type "KiCad")(uri "${KIPRJMOD}/components/cui_relays")(options "")(descr ""))
   (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/components/TS-1187A-B-A-B")(options "")(descr ""))
   (lib (name "MEGA_PRO_EMBED_CH340G___ATMEGA2560")(type "KiCad")(uri "${KIPRJMOD}/components/MEGA_PRO_EMBED_CH340G___ATMEGA2560")(options "")(descr ""))
+  (lib (name "cui-2")(type "KiCad")(uri "${KIPRJMOD}/components/cui-2.5mm-jack")(options "")(descr ""))
 )
