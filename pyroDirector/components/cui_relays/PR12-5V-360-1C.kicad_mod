@@ -4,11 +4,11 @@
   (descr "PR9-5V-200-1A-2")
   (tags "Relay or Contactor")
   (attr through_hole)
-  (fp_text reference "K**" (at 8.03 0.02) (layer "F.SilkS")
+  (fp_text reference "K**" (at 0 -8.89) (layer "F.SilkS")
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp e1239611-6c46-40af-8b49-efdb8b7ae9a3)
   )
-  (fp_text value "PR12-5V-360-1C" (at 7.4 3.8) (layer "F.SilkS") hide
+  (fp_text value "PR12-5V-360-1C" (at 7.62 3.8) (layer "F.SilkS") hide
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp ccd625f5-d7af-47f9-bc23-4fb8ff56a142)
   )
