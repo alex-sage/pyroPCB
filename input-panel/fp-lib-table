@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "TL1105")(type "KiCad")(uri "/home/alex/KiCad/pyroPCB/input-panel/TL1105DF160Q/TL1105.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/FOOTPRINTS/Library.pretty")(options "")(descr "")(disabled))
+)
