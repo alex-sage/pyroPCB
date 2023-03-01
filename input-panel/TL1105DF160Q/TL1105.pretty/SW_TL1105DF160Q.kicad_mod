@@ -28,7 +28,7 @@
   (pad "2" thru_hole circle (at 3.25 2.25) (size 1.508 1.508) (drill 1) (layers *.Cu *.Mask) (tstamp 32344553-3204-4dbf-8cab-9634ccbaf91b))
   (pad "3" thru_hole circle (at -3.25 -2.25) (size 1.508 1.508) (drill 1) (layers *.Cu *.Mask) (tstamp 9649be0c-c2e8-4174-856c-db523e45573b))
   (pad "4" thru_hole circle (at 3.25 -2.25) (size 1.508 1.508) (drill 1) (layers *.Cu *.Mask) (tstamp fa15ae4d-57e8-487f-b235-3f12210a0891))
-  (model "/home/alex/KiCad/pyroPCB/input-panel/TL1105DF160Q/TL1105DF160Q.step"
+  (model "${KIPRJMOD}/TL1105DF160Q/TL1105DF160Q.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
